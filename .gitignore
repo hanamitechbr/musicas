@@ -1,0 +1,5 @@
+.env
+.cache
+musicas/
+logs/
+musicas.txt
