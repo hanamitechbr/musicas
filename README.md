@@ -34,7 +34,8 @@
   Exemplo: https://open.spotify.com/playlist/`4oVp13aYinT4LXu4n0JNsr?si=7dd0abd53f794a9e`
   No meu caso, o ID é: `4oVp13aYinT4LXu4n0JNsr` (Apaguei a parte depois da interrogação "?")
 
-## Rode o script: ``python exportar_playlist.py`` e depois: ``python baixar_musicas.py``
+## Rode o script:
+  - ``python exportar_playlist.py`` e depois: ``python baixar_musicas.py``
 
   Ele vai criar uma pasta ``musicas`` com todas as músicas.
   Depois basta você decidir o que vai fazer com elas (se vai mandar tudo para o celular via cabo USB ou deixar no PC pra escutar)
